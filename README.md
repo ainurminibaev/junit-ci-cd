@@ -3,6 +3,10 @@
 Git hub repository for the free Udemy course : 
 [https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/)
 
+# Better code hub status badge
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/ainurminibaev/junit-ci-cd?branch=master)](https://bettercodehub.com/)
+
 
 ## Get started with Junit
 
