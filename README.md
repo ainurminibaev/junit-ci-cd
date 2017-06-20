@@ -7,6 +7,9 @@ Git hub repository for the free Udemy course :
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/ainurminibaev/junit-ci-cd?branch=master)](https://bettercodehub.com/)
 
+# Build status on Travic CI
+
+[![Build Status](https://travis-ci.org/ainurminibaev/junit-ci-cd.svg?branch=master)](https://travis-ci.org/ainurminibaev/junit-ci-cd)
 
 ## Get started with Junit
 
