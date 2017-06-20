@@ -1,10 +1,10 @@
 package com.in28minutes.junit.helper;
 
-import static org.junit.Assert.*;
-
 import java.util.Arrays;
 
 import org.junit.Test;
+
+import static org.junit.Assert.assertArrayEquals;
 
 public class ArraysCompareTest {
 

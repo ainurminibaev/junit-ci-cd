@@ -1,22 +1,16 @@
 package com.clarity.business;
 
-import static org.junit.Assert.assertEquals;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.Test;
-
 import com.in28minutes.junit.business.ClientBO;
 import com.in28minutes.junit.business.ClientBOImpl;
 import com.in28minutes.junit.business.exception.DifferentCurrenciesException;
-import com.in28minutes.junit.model.Amount;
-import com.in28minutes.junit.model.AmountImpl;
-import com.in28minutes.junit.model.Currency;
-import com.in28minutes.junit.model.Product;
-import com.in28minutes.junit.model.ProductImpl;
-import com.in28minutes.junit.model.ProductType;
+import com.in28minutes.junit.model.*;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class ClientBOTestRefactored {
 
